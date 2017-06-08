@@ -1,0 +1,15 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "Sample Server Setup",
+  "main": "server.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "Vedant Somani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
